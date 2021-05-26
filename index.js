@@ -3,13 +3,15 @@ console.log("Hello World")
 console.log(2+1)
 console.log("2"+1 ) 
 
-let Fruits= ["orange", "mango", "banana", "apple"];
-console.log(Fruits[2])
+let fruits= ["orange", "mango", "banana", "apple"];
+console.log(fruits[2])
 
 let name = 'Saanchit';
 
-const Job = 'Trader';
-console.log('My Name is ' + name + ' And I am a ' + Job)
+const job = 'Trader';
+console.log('My Name is ' + name + ' And I am a ' + job)
 
 name = 'Saanchit Pillai';
 console.log('My Name is ' + name)
+
+let age = 20;
